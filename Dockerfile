@@ -1,1 +1,1 @@
-FROM docker.io/simonwmatthews/pydew:v2.7
+FROM docker.io/simonwmatthews/pydew:v2.8
